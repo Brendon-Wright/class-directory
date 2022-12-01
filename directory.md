@@ -143,4 +143,9 @@
 
 ---
 
+## Brendon Wright
+
+* email: brendonewright@gmail.com
+* github: Brendon-Wright
+* ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPpDt+FpKsJkwmEqHvi4Qq19j5ac4HCPKhlDeKevaQ8m brendonewright@gmail.com
 
