@@ -8,6 +8,14 @@
 
 ---
 
+## Brandon Riness
+
+* email: briness7521@gmail.com
+* github: rinessb
+* ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPRIAMwcjcrrM4/bHMpdaI2M4N6/RE4ReyIOHxXsN7W7 briness7521@gmail.com
+
+---
+
 ## Ethan Patterson
 
 * email: edpatterson16@gmail.com
@@ -127,6 +135,14 @@
 
 ---
 
+## Alex Kortge
+
+* email: amkortge@gmail.com
+* github: AlexKortge
+* ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIM5dXesxRPyQ/ELwzbgiwE95DWDr8ZFlI1OZNoIAYt6P amkortge@gmail.com
+
+---
+
 ## Kelvin Konkel
 
 * email: kelvinsmotherboard@gmail.com
@@ -141,3 +157,20 @@
 * ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJQS6bTA/ckx3Dc4aq994IpJwY/b6IFOZe+Gc7g1/82a madisonwenberg@gmail.com
 
 ---
+
+## Johnny Chirstensen
+* email: chirstensenj280@gmail.com
+* github: jchrist280
+* ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHrhGvR9fiy4ZD+1+E+SKzIhRFJYEnBh5JL93x7dQEIq christensenj280@gmail.com
+
+---
+
+## Charles Griffith
+
+* Email: charlesthemanwithaplan@gmail.com
+* github: chuck9o5
+* ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHKg5DqEkUmOjeXshP51KlCINGORbsLQfGX7/PvnEyqH charlesthemanwithaplan@gmail.com~
+
+---
+
+
