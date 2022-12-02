@@ -151,6 +151,13 @@
 
 ---
 
+## Maddy Zainea
+* email: Madisonwenberg@gmail.com
+* github: YokoRyo
+* ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJQS6bTA/ckx3Dc4aq994IpJwY/b6IFOZe+Gc7g1/82a madisonwenberg@gmail.com
+
+---
+
 ## Johnny Chirstensen
 * email: chirstensenj280@gmail.com
 * github: jchrist280
@@ -165,3 +172,5 @@
 * ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHKg5DqEkUmOjeXshP51KlCINGORbsLQfGX7/PvnEyqH charlesthemanwithaplan@gmail.com~
 
 ---
+
+
