@@ -158,3 +158,10 @@
 
 ---
 
+## Charles Griffith
+
+* Email: charlesthemanwithaplan@gmail.com
+* github: chuck9o5
+* ssh-key: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHKg5DqEkUmOjeXshP51KlCINGORbsLQfGX7/PvnEyqH charlesthemanwithaplan@gmail.com~
+
+---
